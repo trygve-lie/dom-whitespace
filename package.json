@@ -1,0 +1,30 @@
+{
+  "name": "dom-whitespace",
+  "version": "0.1.0",
+  "description": "Safe removal of whitespace from a DOM",
+  "main": "lib/whitespace.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trygve-lie/dom-whitespace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trygve-lie/dom-whitespace/issues"
+  },
+  "scripts": {
+    "pretest": "jshint ./lib/*.js ./test/*.js",
+    "test": "mocha ./test/*.js --reporter spec"
+  },
+  "keywords": [
+    "whitespace",
+    "dom",
+    "html"
+  ],
+  "author": "Trygve Lie <github@trygve-lie.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "1.0.x",
+    "jshint": "latest",
+    "mocha": "latest",
+    "chai": "latest"
+  }
+}
