@@ -1,6 +1,6 @@
 {
   "name": "dom-whitespace",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Safe removal of whitespace from a DOM",
   "main": "lib/whitespace.js",
   "repository": {
