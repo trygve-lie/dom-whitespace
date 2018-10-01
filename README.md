@@ -1,5 +1,7 @@
 # dom-whitespace
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/trygve-lie/dom-whitespace.svg)](https://greenkeeper.io/)
+
 Safe removal of whitespace from a DOM. 
 
 Removes whitespace from a HTML document by doing propper DOM manipulating on 
