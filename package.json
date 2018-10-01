@@ -22,7 +22,7 @@
   "author": "Trygve Lie <github@trygve-lie.com>",
   "license": "MIT",
   "devDependencies": {
-    "jsdom": "1.0.x",
+    "jsdom": "~12.1.0",
     "jshint": "latest",
     "mocha": "latest",
     "chai": "latest"
